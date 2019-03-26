@@ -1,0 +1,3 @@
+# Functional programming in Python?
+## Some experiments with functional techniques in flexible and friendly Python
+Keep in mind that this is unlikely to yield a complete functional programming library. I started this repo because I wanted to see how well functional programming techniques like those found in Haskell apply to Python. Python's support for first-class functions makes it easy to implement higher-order functions and potentially deferred lazy evaluation. This repo will provide some common tools used in the functional paradigm, particularly persistent data structures. Linked lists will be implemented first.
